@@ -9,7 +9,7 @@ public class Main {
         int opcion;
 
         do {
-            System.out.println("=== MENÚ PRINCIPAL - ÁRBOLES Y GRAFOS ===");
+            System.out.println("MENÚ PRINCIPAL - ÁRBOLES Y GRAFOS");
             System.out.println("1. Árbol de Letras");
             System.out.println("2. Listín Telefónico (Árbol de búsqueda)");
             System.out.println("3. Planificador de Rutas (Grafo)");
@@ -24,7 +24,7 @@ public class Main {
                     break;
 
                 case 2:
-                    System.out.println("\n(Ejercicio 2)\n");
+                    Ejercicio2_ListinTelefonico.ejecutar();
                     break;
 
                 case 3:
