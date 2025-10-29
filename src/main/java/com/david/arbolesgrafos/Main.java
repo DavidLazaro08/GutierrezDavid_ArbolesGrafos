@@ -2,7 +2,7 @@ package com.david.arbolesgrafos;
 
 import com.david.arbolesgrafos.ejercicio1.Ejercicio1_ArbolLetras;
 import com.david.arbolesgrafos.ejercicio2.Ejercicio2_ListinTelefonico;
-import com.david.arbolesgrafos.ejercicio3.Ejercicio3_PlanificadorRutas;
+import com.david.arbolesgrafos.ejercicio3.Ejercicio3_Planificador;
 
 
 import java.util.Scanner;
@@ -33,7 +33,7 @@ public class Main {
                     break;
 
                 case 3:
-                    Ejercicio3_PlanificadorRutas.ejecutar();
+                    Ejercicio3_Planificador.ejecutar();
                     break;
 
                 case 4:
