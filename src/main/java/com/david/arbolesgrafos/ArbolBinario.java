@@ -3,7 +3,10 @@ package com.david.arbolesgrafos;
 import java.util.LinkedList;
 import java.util.Queue;
 
-/** Árbol binario simple con inserción, búsqueda y muestra básica. */
+/** Árbol binario (la hice sin recursividad).
+ *  Se usa para representar letras con una estructura básica (raíz, hijo izquierdo y derecho).
+ *  Inserta letras en las primeras posiciones disponibles y permite mostrar o buscar una letra concreta. */
+
 public class ArbolBinario {
 
     private NodoArbol raiz;
@@ -51,7 +54,7 @@ public class ArbolBinario {
         }
     }
 
-    // Mostrar el árbol por niveles (opcional)
+    // Mostrar el árbol por niveles
     public void mostrarPorNiveles() {
         if (raiz == null) {
             System.out.println("El árbol está vacío.");

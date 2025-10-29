@@ -2,7 +2,10 @@ package com.david.arbolesgrafos;
 
 import java.util.Scanner;
 
-/** Ejercicio 1 - Árbol de letras con búsqueda y recorrido. */
+/* Ejercicio 1 - Árbol de Letras.
+ * Utilizamos un árbol binario simple (sin recursividad) para insertar letras,
+ * mostrar el recorrido por niveles y buscar una letra concreta. */
+
 public class Ejercicio1_ArbolLetras {
 
     public static void ejecutar() {

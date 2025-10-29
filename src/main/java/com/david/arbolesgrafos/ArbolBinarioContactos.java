@@ -1,6 +1,9 @@
 package com.david.arbolesgrafos;
 
-/** Árbol binario de búsqueda para contactos (nombre - teléfono). */
+/* Árbol binario de búsqueda para contactos (nombre - teléfono).
+ * En este caso sí usamos recursividad para insertar los nodos según el orden alfabético del nombre.
+ * Permite buscar contactos mostrando el recorrido y listar todos en orden alfabético. */
+
 public class ArbolBinarioContactos {
 
     private NodoContacto raiz;

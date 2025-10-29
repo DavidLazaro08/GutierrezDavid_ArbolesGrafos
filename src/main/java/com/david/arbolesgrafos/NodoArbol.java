@@ -1,6 +1,9 @@
 package com.david.arbolesgrafos;
 
-/** Nodo de un árbol binario (dato + hijos izquierdo y derecho). */
+/** Nodo de un árbol binario.
+ *  Guarda un carácter y referencias a los hijos izquierdo y derecho.
+ *  Lo utilizamos en el Ejercicio 1 (Árbol de Letras). */
+
 public class NodoArbol {
     char dato;
     NodoArbol izquierdo;

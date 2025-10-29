@@ -28,7 +28,7 @@ public class Main {
                     break;
 
                 case 3:
-                    System.out.println("\n(Ejercicio 3)\n");
+                    Ejercicio3_PlanificadorRutas.ejecutar();
                     break;
 
                 case 4:
