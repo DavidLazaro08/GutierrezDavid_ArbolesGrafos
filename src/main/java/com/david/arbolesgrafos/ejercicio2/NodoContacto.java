@@ -1,4 +1,4 @@
-package com.david.arbolesgrafos;
+package com.david.arbolesgrafos.ejercicio2;
 
 /* Nodo del árbol binario de búsqueda de contactos.
  * Contiene el nombre y teléfono del contacto y las referencias a sus nodos hijo izquierdo y derecho.

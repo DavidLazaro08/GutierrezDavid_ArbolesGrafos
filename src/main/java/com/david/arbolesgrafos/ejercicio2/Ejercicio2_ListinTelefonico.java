@@ -1,4 +1,4 @@
-package com.david.arbolesgrafos;
+package com.david.arbolesgrafos.ejercicio2;
 
 import java.util.Scanner;
 

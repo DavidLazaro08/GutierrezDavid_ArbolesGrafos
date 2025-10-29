@@ -1,4 +1,4 @@
-package com.david.arbolesgrafos;
+package com.david.arbolesgrafos.ejercicio2;
 
 /* Árbol binario de búsqueda para contactos (nombre - teléfono).
  * En este caso sí usamos recursividad para insertar los nodos según el orden alfabético del nombre.

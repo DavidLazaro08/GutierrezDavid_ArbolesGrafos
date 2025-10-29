@@ -1,4 +1,4 @@
-package com.david.arbolesgrafos;
+package com.david.arbolesgrafos.ejercicio1;
 
 /** Nodo de un árbol binario.
  *  Guarda un carácter y referencias a los hijos izquierdo y derecho.

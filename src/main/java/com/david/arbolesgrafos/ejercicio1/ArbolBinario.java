@@ -1,4 +1,4 @@
-package com.david.arbolesgrafos;
+package com.david.arbolesgrafos.ejercicio1;
 
 import java.util.LinkedList;
 import java.util.Queue;
